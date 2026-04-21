@@ -1,0 +1,42 @@
+create table g5_genero (
+id_genero int,
+descricao varchar(10) not null
+);
+alter table g5_genero add primary key (id_genero);
+
+
+
+create table g5_autor (
+id_autor int,
+nome varchar(50),
+nomeregistro varchar(50),
+ano_nascimento int,
+cidade_nascimento varchar(30),
+estado_nascimento varchar(10),
+ano_falecimento int,
+cidade_falecimento varchar(30),
+estado_falecimento char(2)
+);
+alter table g5_autor add primary key (id_autor);
+
+
+
+create table g5_editora
+id_editora int,
+nome varchar(50),
+cidade_sede varchar(30),
+ano_fundacao int
+);
+alter table g5_editora add primary key (id_editora);
+
+
+
+create table g5_livro
+id_livro int,
+titulo varchar(50),
+ano_publicacao int,
+id_autor int,
+id_editora int,
+id_genero int
+);
+alter table g5_livro add primary key (id_livro);

@@ -1,0 +1,8 @@
+INSERT INTO `g6_genero` (`id_genero`, `descricao`) VALUES
+('1', Romance'),
+('2', Poesia'),
+('3', Conto'),
+('4', Infantil'),
+('5', Crônica'),
+('6', Teatro'),
+('7', Ensaio');

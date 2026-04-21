@@ -1,0 +1,27 @@
+id_livro;titulo;ano_publicacao;id_autor;id_editora;id_genero
+1;Dom Casmurro;1899;1;2;1
+2;Memórias Póstumas de Brás Cubas;1881;1;2;1
+3;O Guarani;1857;2;1;1
+4;Iracema;1865;2;1;1
+5;A Hora da Estrela;1977;3;3;1
+6;Laços de Família;1960;3;3;3
+7;Sagarana;1946;4;3;3
+8;Grande Sertão: Veredas;1956;4;3;1
+9;Urupês;1918;5;3;3
+10;Reinações de Narizinho;1931;5;3;4
+11;Oração aos Moços;1901;6;1;2
+12;As Primaveras;1881;7;2;2
+13;Menino de Engenho;1932;8;3;1
+14;Orfeu da Conceição;1956;9;4;6
+15;Bisa Bia, Bisa Bel;1982;10;3;1
+16;O Ateneu;1888;11;1;1
+17;O Mulato;1881;12;1;1
+18;Triste Fim de Policarpo Quaresma;1915;13;1;1
+19;O Quinze;1930;14;1;1
+20;O Tempo e o Vento;1949;15;4;1
+21;Gabriela, Cravo e Canela;1958;16;4;1
+22;Vidas Secas;1938;17;4;1
+23;Viagem;1939;18;2;7
+24;A Rosa do Povo;1945;18;2;2
+25;As Três Marias;1939;19;4;1
+26;Sonetos e Poemas;1920;20;2;2
