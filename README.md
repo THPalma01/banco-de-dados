@@ -2,7 +2,7 @@
 
 ## 🧠 Descrição
 
-Repositório contendo exercícios resolvidos envolvendo manipulação e consulta de dados.
+Repositório contendo exercícios resolvidos envolvendo manipulação, criação e consulta de dados usando python e sqlite3.
 
 ## 🎯 Objetivo
 
@@ -27,4 +27,4 @@ Praticar conceitos fundamentais de banco de dados.
 
 ## ▶️ Como executar
 
-Executar os scripts em um SGBD.
+Executar os scripts em SqLite3.
