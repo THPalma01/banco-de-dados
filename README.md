@@ -11,6 +11,7 @@ Praticar conceitos fundamentais de banco de dados.
 ## 🛠️ Tecnologias
 
 * SQL
+* Python
 
 ## 📚 Conteúdo
 
